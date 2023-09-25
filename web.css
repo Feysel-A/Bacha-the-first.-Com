@@ -1,0 +1,19 @@
+
+h1{
+    color:orange;
+    text-align:Center;
+    font-family:verdana;
+    font-style:italic;
+    font-size:60px;
+}
+#bacha{
+   color:red 
+}
+#video-background {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
